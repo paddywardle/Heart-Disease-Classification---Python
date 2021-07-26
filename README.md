@@ -1,0 +1,2 @@
+# Heart-Disease-Classification---Python
+I performed exploratory data analysis on a dataset heart disease dataset, constructing various visualisations, to gain useful insights about the data. I then trained various machine learning algorithms to classify whether someone has heart disease or not based on various features, scoring each algorithm based on their accuracy and deciding on which algorithm was the best to use for further predictions.
